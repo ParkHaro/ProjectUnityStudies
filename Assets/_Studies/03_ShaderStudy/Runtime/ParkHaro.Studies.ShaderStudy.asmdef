@@ -1,0 +1,14 @@
+{
+    "name": "ParkHaro.Studies.ShaderStudy",
+    "rootNamespace": "ParkHaro.Studies.ShaderStudy",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
