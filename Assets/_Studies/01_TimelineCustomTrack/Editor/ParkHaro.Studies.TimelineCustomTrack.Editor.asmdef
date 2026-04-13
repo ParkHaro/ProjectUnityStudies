@@ -1,0 +1,17 @@
+{
+    "name": "ParkHaro.Studies.TimelineCustomTrack.Editor",
+    "rootNamespace": "ParkHaro.Studies.TimelineCustomTrack.Editor",
+    "references": [
+        "ParkHaro.Studies.TimelineCustomTrack",
+        "Unity.Timeline.Editor"
+    ],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

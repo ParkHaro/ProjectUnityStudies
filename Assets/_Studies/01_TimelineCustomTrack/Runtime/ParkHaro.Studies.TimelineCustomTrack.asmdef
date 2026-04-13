@@ -1,0 +1,17 @@
+{
+    "name": "ParkHaro.Studies.TimelineCustomTrack",
+    "rootNamespace": "ParkHaro.Studies.TimelineCustomTrack",
+    "references": [
+        "Unity.Timeline",
+        "Unity.Cinemachine"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
