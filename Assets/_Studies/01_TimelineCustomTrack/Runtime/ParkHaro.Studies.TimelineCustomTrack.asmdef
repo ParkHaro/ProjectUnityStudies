@@ -3,7 +3,8 @@
     "rootNamespace": "ParkHaro.Studies.TimelineCustomTrack",
     "references": [
         "Unity.Timeline",
-        "Unity.Cinemachine"
+        "Unity.Cinemachine",
+        "Unity.TextMeshPro"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
