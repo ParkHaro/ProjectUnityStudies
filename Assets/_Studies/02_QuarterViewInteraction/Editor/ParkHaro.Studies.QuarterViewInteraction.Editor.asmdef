@@ -1,0 +1,16 @@
+{
+    "name": "ParkHaro.Studies.QuarterViewInteraction.Editor",
+    "rootNamespace": "ParkHaro.Studies.QuarterViewInteraction.Editor",
+    "references": [
+        "ParkHaro.Studies.QuarterViewInteraction"
+    ],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
